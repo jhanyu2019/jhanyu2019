@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinghan Yu</h1>
 <h3 align="center">A Full-Stack Developer passionate about building scalable and intelligent systems</h3>
 
-- 🔭 I'm currently working on a **Full-Stack Academic and Inventory Management System**
+- 🔭 I'm currently working on a **Full-Stack Inventory Management System**
 - 🌱 I'm diving deep into **Cloud Computing, Distributed Systems, and AI Integration**
 - 💻 I enjoy working with **React, Spring Boot, MongoDB, and AWS**
 - ⚙️ Tools I'm exploring: **Kubernetes, Docker, RocketMQ, Kafka**

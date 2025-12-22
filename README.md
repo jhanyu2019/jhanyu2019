@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jinghan Yu</h1>
 <h3 align="center">A Full-Stack Developer passionate about building scalable and intelligent systems</h3>
 
-- 🔭 I’m currently building: **Multi-agent AI Systems** using **LangGraph & FastAPI**.
+- 🔭 I’m currently building: **Multi-agent AI Systems** using **LangGraph & FastAPI**
 - 🌱 I'm diving deep into **Cloud Computing, Distributed Systems, and AI Integration**
-- 💻 I enjoy working with **React, Spring Boot, MongoDB, and AWS**
 - ⚙️ Tools I'm exploring: **Kubernetes, Docker, Kafka**
 - 🤝 Open Source: Contributor to **Rocket.Chat** (GSoC 2025)
-- - 🤖 **AI/ML Exploration**: 
-    - Currently integrating **GraphRAG** with Neo4j for smarter retrieval.
-    - Previously developed mini-projects in **Sentiment Analysis** (NLP on financial reports) and **Computer Vision** (License Plate Recognition).
+- 🤖 **AI/ML Exploration**: 
+    - Currently integrating **GraphRAG** with Neo4j for smarter retrieval
+    - Previously developed mini-projects in **Sentiment Analysis** (NLP on financial reports) and **Computer Vision** (License Plate Recognition)
 
 
 ---

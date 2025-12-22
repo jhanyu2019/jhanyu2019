@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinghan Yu</h1>
 <h3 align="center">A Full-Stack Developer passionate about building scalable and intelligent systems</h3>
 
-- 🔭 I'm currently working on a **Full-Stack Inventory Management System**
 - 🌱 I'm diving deep into **Cloud Computing, Distributed Systems, and AI Integration**
 - 💻 I enjoy working with **React, Spring Boot, MongoDB, and AWS**
-- ⚙️ Tools I'm exploring: **Kubernetes, Docker, RocketMQ, Kafka**
+- ⚙️ Tools I'm exploring: **Kubernetes, Docker, Kafka**
 
 
 ---
@@ -34,7 +33,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RocketMQ](https://img.shields.io/badge/RocketMQ-FF6A00?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&lo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
